@@ -36,7 +36,7 @@ The "magic" lies in how power divides among the arms:
 That is, **opposite arms of a magic tee are isolated**. The magic tee can also be used as a signal combiner: signals fed into both side arms combine in phase at the H-arm and 180° out of phase at the E-arm.
 
 A magic tee is normally characterised by two quantities:
-<img width="542" height="661" alt="image" src="https://github.com/user-attachments/assets/ffd65be6-b620-4ce0-814a-ab3c7adf38c8" />
+<img width="522" height="527" alt="image" src="https://github.com/user-attachments/assets/bc7a237e-bd81-426a-ba07-744de4bfa443" />
 
 
 ## Procedure
